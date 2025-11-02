@@ -1,0 +1,18 @@
+{
+  "plugin-data": {
+    "name": "Floating Image",
+    "description": "Display a customizable floating image (GIF/PNG) on your website that can be closed by double-clicking"
+  },
+  "image-url": "Image URL",
+  "image-url-help": "Enter the URL of your image (GIF or PNG)",
+  "image-size": "Image Size (px)",
+  "image-size-help": "Set the width of the image in pixels",
+  "position-x": "Horizontal Position",
+  "position-x-help": "Horizontal position (left, center, right, or custom % value)",
+  "position-y": "Vertical Position",
+  "position-y-help": "Vertical position (top, middle, bottom, or custom % value)",
+  "z-index": "Z-Index",
+  "z-index-help": "Layer order (higher number = front, lower = back)",
+  "opacity": "Opacity",
+  "opacity-help": "Image transparency (0.1 to 1.0, where 1.0 is fully opaque)"
+}

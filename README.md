@@ -219,9 +219,7 @@ This plugin is open-source software licensed under the [MIT License](LICENSE).
 ## Author
 
 **Your Name**
-- Website: [https://yourwebsite.com](https://yourwebsite.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Website: [https://theartistree.in](https://theartistree.in)
 
 ## Support
 
